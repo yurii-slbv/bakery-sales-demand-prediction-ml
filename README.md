@@ -56,4 +56,3 @@ The model uses historical sales data and requires further validation on new, uns
 ---
 
 *Individual Machine Learning Project — Ironhack Data Analytics Bootcamp, October 2026*
-

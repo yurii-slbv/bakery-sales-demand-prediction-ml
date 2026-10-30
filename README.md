@@ -23,6 +23,12 @@ This project uses Machine Learning to predict **daily sales quantities for indiv
 4. **Hyperparameter Tuning** — Optimize the best-performing models using GridSearchCV.
 5. **Model Evaluation** — Evaluate prediction accuracy and extract business insights.
 
+## 📋 Project Management
+
+Project tasks, milestones, and progress were tracked using Trello.
+
+📌 **[View Project Trello Board](https://trello.com/b/tSZb9bzD/mlproject)**
+
 ## Final Model & Performance
 
 **Selected Model: Bagging Regressor**
